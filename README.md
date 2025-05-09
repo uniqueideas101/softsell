@@ -56,6 +56,10 @@ Approximately 10–12 hours total:
 - 2 hrs deployment and polish
 
 ---
+## 📬 Contact
 
-## 📁 Folder Structure
+For questions, feedback, or collaborations:  
+**Divyanshi Rawat** – divyanshi0815@gmail.com 
+
+
 
