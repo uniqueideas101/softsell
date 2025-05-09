@@ -6,7 +6,7 @@ A modern, responsive one-page marketing website built for a fictional software r
 
 ## 🚀 Live Demo
 
-[🔗 View the Site](softsell-19o8-r6mkvonpd-divyanshis-projects-edeb2e99.vercel.app) 
+[🔗 View the Site](https://softsell-19o8.vercel.app/) 
 [📂 GitHub Repo](https://github.com/your-username/softsell)
 
 ---
